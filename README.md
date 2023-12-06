@@ -1,2 +1,1 @@
-# curso
-curso henry
+# curso preparatorio para programar 
